@@ -1,5 +1,5 @@
 {
-    "name": "symfony/symfony",
+    "name": "asurin/symfony",
     "type": "library",
     "description": "The Symfony PHP framework (Root name changed so this customize fork is picked up by composer in preference to the original which was symfony)",
     "keywords": ["framework"],
